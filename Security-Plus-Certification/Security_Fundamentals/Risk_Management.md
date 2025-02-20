@@ -1,0 +1,9 @@
+Risk Management is the process of identifying, prioritizing, managing and monitoring risks to information systems.  Several policies have been created by various groups.  They all follow a basic framework.  Risk framing, risk assessment, responding to risk, and monitoring.
+
+Risk Framing is the process of defining the context in which risk decisions are made.  Companies can align their risk management strategies with their overall business strategies.  Some general guidelines a company can follow are: the scope of the process, asset inventory and prioritization, organizational resources and priorities, and legal and regulatory requirements.
+
+Risk Assessment is used by companies to determine threats and vulnerabilities, estimate their potential impacts and prioritize the most critical risks.  The way a company conducts a risk assessment will be determined by the risk framing they have established.  Since it can be hard to calculate the exact impact of a threat, companies will use historical trends and stories of attacks on other organizations to calculate the impact.  The more critical an asset is, the more costly attacks against it will be.
+
+Responding to Risk is determined by the organization’s risk assessment. Possible responses to a risk are risk mitigation, risk remediation, and risk transfer.  Risk mitigation uses security controls that make it harder to exploit a vulnerability or lessen the impact of exploitation.  Risk remediation would make it so a vulnerability cannot be exploited.  Risk transfer is when an organization cannot mitigate or remediate a threat on their own.  They will contact a third party for help.
+
+Monitoring is when the organization monitors new security controls to determine they work as intended and satisfy regulatory requirements.  The organization will monitor the broader threat landscape and their own IT systems.     
