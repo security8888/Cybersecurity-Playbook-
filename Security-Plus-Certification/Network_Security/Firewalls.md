@@ -1,3 +1,7 @@
+Stateful Firewalls operate at layers 3 and 4. They keep track of the state of network connections.  They do this by keeping a state table that records the state of active connections.  The state table allows them to make more informed decisions about whether to allow or block traffic based upon the context of the connection.
+
+Stateless Firewalls are also known as access control lists (ACLs).  They do not store information about the state of the connection.  They operate based upon predefined rules that filter packets based on static information. 
+
 Network Firewalls are used to prevent private networks from unauthorized access.  The firewall monitors and controls the incoming and outgoing traffic of the network. 
 
 Packet Filters monitor outgoing and incoming packets.  These packets will either be allowed to travel through the network or will not be based on the IP addresses, protocols and ports being used by the packets. 
