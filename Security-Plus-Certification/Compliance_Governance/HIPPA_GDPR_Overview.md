@@ -1,0 +1,18 @@
+Cybersecurity law covers rules, regulations and standards intended to protect digital assets, networks and sensitive data.  These laws apply to individuals, businesses and government entities.  Cybersecurity law is important because it prevents cybercrimes, protects data privacy, enhances national security and encourages compliance.
+
+General Data Protection Regulation (GDPR) went into effect in 2018. GDPR was created by the European Union.  GDPR are regulations for processing personal data of EU citizens.  GDPR applies to organizations that process personal data or offer goods or services to EU citizens or residents.  Compliance requirements are lawfulness, fairness and transparency.  Purpose limitation, data minimization, accuracy, storage limitation, integrity and confidentiality and accountability.  It requires organizations to report personal data breaches to supervisors within 72 hours.  The maximum penalty for non-compliance is 20 million euros or 4% of global revenue; whichever is higher.
+
+NIS2D (Network and Information Systems Directive) was created by the EU and is an updated version of NISD.  NSI2D applies to essential and important entities in critical sectors: energy, healthcare, transport, financial services and digital infrastructure. Compliance requirements are the implementation of risk management measures, enhancement of incident detection and reporting capabilities and designating clear cybersecurity governance roles. Organizations must conduct regular audits, manage supply chain risks and report significant cybersecurity incidents to authorities within strict timeframes.  Organizations must report significant data breach incidents to supervisors within 24 hours of detection.  Within 72 hours an initial assessment report must be completed.  The maximum penalty for non-compliance is 10 million euro or 2% of global revenue; whichever is higher.
+
+Health Insurance Portability and Accountability Act (HIPAA) was signed into United States federal law in 1996.  HIPPA protects sensitive health information from being disclosed without the patients consent.  It establishes standards for security and privacy of health data.  HIPPA applies to healthcare providers, health plans, healthcare clearinghouses and business associates, and third-party organizations that handle sensitive health information.  HIPPA compliance relies on adherence to a range of rules regarding privacy, security, breach notification, enforcement and transaction standards.  Organizations must notify affected individuals, the HHS and the media within 60 days of discovering a PHI breach.  Breaches that affect fewer than 500 individuals may be reported annually.  The maximum penalties vary depending on the severity of the breach, ranging from $141 to $2,134,832 per violation.
+
+International Traffic in Arms Regulations (ITAR) was created by the U.S government to control the export and import of defense related articles, services and technical data under the Arms Export Control Act (AECA). In short it ensures that military technologies do not fall into the wrong hands.  ITAR applies to U.S. manufactures, exporters and brokers of defense services and foreign organizations that handle ITAR-controlled items.  ITAR requires organizations register with Directorate of Defense Trade Controls (DDTC), obtain export licenses for controlled items, restricted access to technical data and maintain records of compliances for a minimum of 5 years.  Organizations must report ITAR violations to the DDTC.  The maximum penalties for civil fines are $1.2 million per violation.  Maximum criminal fines are $1 million.  Imprisonment is also a penalty.  Non-compliance could also result in debarment from exporting defense-related items.
+‍‍‍
+‍
+
+
+
+
+
+
+
