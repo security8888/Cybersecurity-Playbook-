@@ -15,3 +15,4 @@
 |       type            |             Info. on command type                     |                                                      |
 |       cd              |             Change directory                          |                                                      |
 |       which           |             Searches the Path variable                |                                                      |
+|       whoami          |             Displays username of the current user     |                                                      |
