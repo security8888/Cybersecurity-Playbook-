@@ -14,3 +14,4 @@
 |       unset           |              Removes exported variable                |                                                      |
 |       type            |             Info. on command type                     |                                                      |
 |       cd              |             Change directory                          |                                                      |
+|       which           |             Searches the Path variable                |                                                      |
