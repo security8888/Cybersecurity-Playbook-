@@ -12,3 +12,4 @@
 |       env             |            Displays list of environment variables     |                                                      |    
 |       export          | Turns a local variable into an environment variable   |                                                      |
 |       unset           |              Removes exported variable                |                                                      |
+|       type            |             Info. on command type                     |                                                      |
