@@ -11,3 +11,4 @@
 |       echo            |              Displays output in the terminal          |           -variable (whichever variable you created) |
 |       env             |            Displays list of environment variables     |                                                      |    
 |       export          | Turns a local variable into an environment variable   |                                                      |
+|       unset           |              Removes exported variable                |                                                      |
