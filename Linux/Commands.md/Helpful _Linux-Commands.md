@@ -16,3 +16,4 @@
 |       cd              |             Change directory                          |                                                      |
 |       which           |             Searches the Path variable                |                                                      |
 |       whoami          |             Displays username of the current user     |                                                      |
+|       uname           |             Displays kernel you are using             |                                                      |
