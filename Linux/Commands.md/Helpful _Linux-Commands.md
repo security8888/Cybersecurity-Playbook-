@@ -24,3 +24,4 @@
 |       tar             |             Create an archive                         |-Create: Make a new archive out of a series of files  |
 |                       |                                                       |-Extract: Pull one or more files out of an archive    |
 |                       |                                                       |-List: Show contents of archive without extracting    |
+|       gunzip          |             Restore extracted file                    | Can also use gzip –d command                         |
