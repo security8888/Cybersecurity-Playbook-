@@ -16,4 +16,16 @@ The double ampersand && acts as a logical "and"; if the first command is success
 
 The double pipe || is a logical "or". Depending on the result of the first command, the second command will either run or be skipped.
 
+Variables	show the current position in the file and the file’s size.
+So remember this: to assign to a variable, just use the name of the variable. To access the contents of the variable, prefix it with a dollar sign
+
+Conditionals
+Now that you can look at and set variables, it is time to make your script do different functions based on tests, called branching. The if statement is the basic operator to implement branching.
+
+Loops
+Loops allow code to be executed repeatedly.
+for loops are used when you have a finite collection over which you want to iterate, such as a list of files, or a list of server names:
+for loops are used when you have a finite collection over which you want to iterate, such as a list of files, or a list of server names:
+
+
 
