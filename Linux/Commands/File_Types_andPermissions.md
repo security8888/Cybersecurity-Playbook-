@@ -15,6 +15,31 @@ one process is used as input for the other process.
 
 s	A socket file allows two processes to communicate, where both processes are allowed to either send or receive data.
 
+Permission Groups
+The next nine characters demonstrate the permissions of the file.
+
+-rw-r--r-- 1 root root 4135 May 27 21:08 /etc/passwd
+The permissions set on these files determine the level of access that a user has on the file. When a user runs a program and the program accesses a file, then the permissions are checked to determine whether the user has the correct access rights to the file.
+
+The permissions are grouped into three different roles, representing the different users that may try to access the file.
+
+If you aren't the owner and you're not a member of the file/directory group, then your permissions would be others.
+
+User Owner
+
+-rw-r--r-- 1 root root 4135 May 27 21:08 /etc/passwd
+Characters 2-4 indicate the permissions for the user that owns the file. If you are the owner of the file, then only the user owner permissions are used to determine access to that file.
+
+Group Owner
+
+-rw-r--r-- 1 root root 4135 May 27 21:08 /etc/passwd
+Characters 5-7 indicate the permissions for the group that owns the file. If you are not the owner but are a member of the group that owns the file, then only group owner permissions are used to determine access to that file.
+
+Other Permissions
+
+-rw-r--r-- 1 root root 4135 May 27 21:08 /etc/passwd
+Characters 8-10 indicate the permissions for others or what is sometimes referred to as the world's permissions. This group includes all users who are not the file owner or a member of the file's group.
+
 The permissions themselves are deceptively simple and have a different meaning depending on whether they are applied to a file or a directory.
 
 Read
