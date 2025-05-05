@@ -9,8 +9,7 @@
 |                       |                                                       |                     -! (# of history list)           |
 |                       |                                                       |                                                      |
 |       echo            |              Displays output in the terminal          |           -variable (whichever variable you created) |
-|       env             |            Displays list of environment variables     |                                                      |    
-|       export          | Turns a local variable into an environment variable   |                                                      |
+|       env             |            Displays list of environment variables     |                                                      | |       export          |  Turns a local variable into an environment variable  |                                                      |
 |       unset           |             Removes exported variable                 |                                                      |
 |       type            |             Info. on command type                     |                                                      |
 |       cd              |             Change directory                          |                                                      |
@@ -26,5 +25,9 @@
 |                       |                                                       |                -x extreact files from archieve       |
 |                       |                                                       |                -j decompress w/ bzip2 command        |
 |                       |                                                       |           -f ARCHIEVE operate on the given archieve  |
-|       gunzip          |               Restore extracted file                  |                Can also use gzip –d command          |
-|       route           |                                                       | view table describing where network package are sent | |       ping            |                                                       |        determines if another machine is reachaable   | |                       
+|       gunzip          |               Restore extracted file                  |                can also use gzip –d command          |
+|       route           |                                                       | view table describing where network package are sent | |       ping            |                                                       |        determines if another machine is reachaable   | |       netstat         |                                                       |         displays info about network connections      |
+|       dig             |                                                       |   determines the IP address of the example.com host  |
+|       SOA             |               Stare of Authority records              |       indicates the primary server for the domain    |
+|       host            |                                                       |  works w/ DNS associate hostname with an IP address  |
+|       id              |                                                       |               displays user and group names          |
