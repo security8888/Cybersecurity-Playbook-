@@ -6,6 +6,13 @@
 |       sudo                | Allows users to execute commands as another user           |                                                            |
 |       who                 | Displays list of users who are currently logged in, where  |               -b (shows the last time system booted        |                    
 |                           | they are logged in from and when they logged in            |-r (shows the time the system reached the current run level |
-|       w                   | shows a more detailed list on the users currently on the   |                                                            |
+|       w                   | Shows a more detailed list on the users currently on the   |                                                            |
 |                           | system                                                     |                                                            |
-
+|       last                | Reads the entire login history from the /var/log/wtmp      |                                                            |
+|      groupadd             |    Executed by the root user to create a new group         |               -g (specify group ID for new group)          |
+|      groupmod             |    Make changes to groups                                  |               -n (change the name of group)                |
+|                           |                                                            |               -g (change GID of group)                     |
+|      groupdel             |    Delete a group                                          |                                                            |
+|      useradd              | Before you begin creating users for your system you should |-D (allows you to view or change some of the default values)|
+|                           | verify or establish practical values that are used by      |-g (allows you to use different primary group than default) |
+|                           | default.                                                   |-b (allows you to use a different base directory 
