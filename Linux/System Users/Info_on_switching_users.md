@@ -3,7 +3,7 @@ su [options] [username]
 
 When switching users utilizing the login shell option is recommended, as the login shell fully configures the new shell with the settings of the new user, ensuring any commands executed run correctly. If this option is omitted, the new shell changes the UID but doesn't fully log in the user. 
 The login shell option can be specified one of three ways:
-su -
+su 
 su -l
 su --login
 
