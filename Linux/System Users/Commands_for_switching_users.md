@@ -23,4 +23,6 @@
 |                           |                                                            |-u (allows you to specify the UID number)                   |
 |                           |                                                            |-g (To specify a primary group w/ name or GID of the group) |
 |      passwd               |  Change user password                                      |(user changes and admin changes giving user name as arguem.)|
-|                                 
+|      change               |  Change password info in /etc/shadow file                  |(several options to change password aging information)      |
+|      usermod              |  Offers many options for modifying an existing user        |(many can be changed when creating a new user account)      |
+|      userdel              |  Delete users                                              |                                                            |
