@@ -27,5 +27,4 @@
 |                       |                                                       |                -j decompress w/ bzip2 command        |
 |                       |                                                       |           -f ARCHIEVE operate on the given archieve  |
 |       gunzip          |               Restore extracted file                  |                Can also use gzip –d command          |
-
-|
+|                       |                                                       |                                                      |                 
