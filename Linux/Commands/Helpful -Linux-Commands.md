@@ -41,3 +41,5 @@
 |      chown            | Allows the root user to change the user ownership of  | (3 ways it can be executed)                          |
 |                       | files and directories                                 |                                                      | 
 |      chmod            |     Changes permissions on files and directories      |                                                      |
+|      umask            | Feature that is used to determine default permissions |                                                      |
+|                       | that are set when a file or directory is created      |                                                      |
