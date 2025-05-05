@@ -46,3 +46,5 @@
 |      stat             | Displays more detailed information about a file,      |                                                      |
 |                       | including providing the group ownership both by       |                                                      |
 |                       | group name and GID number                             |                                                      |
+|      ln               |               Create a hard link                      | -s (ln -s creates a symbolic link                    |
+
