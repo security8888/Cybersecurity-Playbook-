@@ -1,1 +1,1 @@
-
+|     Commands        |           What the Command Does                 |                           Flags                                  |                                      
