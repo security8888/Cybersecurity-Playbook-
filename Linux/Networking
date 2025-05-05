@@ -1,0 +1,1 @@
+The widely accepted method of making changes to a network interface is to take the interface down using a command such as ifdown eth0, make the desired changes to the configuration file, and then bring the interface back up and into service with a command such as ifup eth0.
