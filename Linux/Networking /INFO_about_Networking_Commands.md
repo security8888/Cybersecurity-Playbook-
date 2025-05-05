@@ -29,10 +29,15 @@ sysadmin@localhost:~$ cat /etc/nsswitch.conf
 The ss command is designed to show socket statistics and supports all the major packet and socket types
 
 Netid:	The socket type and transport protocol
+
 State:	Connected or Unconnected, depending on protocol
+
 Recv-Q:	Amount of data queued up for being processed having been received
+
 Send-Q:	Amount of data queued up for being sent to another host
+
 Local Address:	The address and port of the local host’s portion of the connection
+
 Peer Address:	The address and port of the remote host’s portion of the connection
 
 
