@@ -18,10 +18,14 @@
 |       whoami          |             Displays username of the current user     |                                                      |
 |       uname           |             Displays kernel you are using             |                                                      |
 |       pwd             |             Displays the directory you are in         |                                                      |
-|       c               |             Create an archive                         |                                                      |
-|       f archive       |             Use archive file                          |                                                      |
-|       x               |             Extract files from archive                |                                                      |
-|       tar             |             Create an archive                         |-Create: Make a new archive out of a series of files  |
-|                       |                                                       |-Extract: Pull one or more files out of an archive    |
-|                       |                                                       |-List: Show contents of archive without extracting    |
-|       gunzip          |             Restore extracted file                    | Can also use gzip –d command                         |
+|       tar             |             Working with archieves                    |                -c create archieve                    | |                       |                                                       |                -f define file name of archieve       |
+|                       |                                                       |                -J compress using xz                  |
+|                       |                                                       |                -v verbose output                     |
+|                       |                                                       |                -z compress usinf gzip                |
+|                       |                                                       |                --zstd compress using zstd            |
+|                       |                                                       |                -x extreact files from archieve       |
+|                       |                                                       |                -j decompress w/ bzip2 command        |
+|                       |                                                       |           -f ARCHIEVE operate on the given archieve  |
+|       gunzip          |               Restore extracted file                  |                Can also use gzip –d command          |
+
+|
