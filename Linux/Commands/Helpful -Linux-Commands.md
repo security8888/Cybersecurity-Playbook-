@@ -40,4 +40,4 @@
 |      chgrp            |    Change the group owner of any file to any group    |-R(change group ownership of all files of a directory)|
 |      chown            | Allows the root user to change the user ownership of  | (3 ways it can be executed)                          |
 |                       | files and directories                                 |                                                      | 
-|
+|      chmod            |     Changes permissions on files and directories      |                                                      |
