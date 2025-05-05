@@ -15,4 +15,12 @@
 |      groupdel             |    Delete a group                                          |                                                            |
 |      useradd              | Before you begin creating users for your system you should |-D (allows you to view or change some of the default values)|
 |                           | verify or establish practical values that are used by      |-g (allows you to use different primary group than default) |
-|                           | default.                                                   |-b (allows you to use a different base directory 
+|                           | default.                                                   |-b (allows you to use a different base directory group)     |
+|                           |                                                            |-f (allows you to use a different INACTIVE value)           |
+|                           |                                                            |-e (allows you to use a different EXPIRE value )            |
+|                           |                                                            |-s (allows you to use a different login shell)              |
+|                           |                                                            |-k (allows you to use a different SKEL directory)           |
+|                           |                                                            |-u (allows you to specify the UID number)                   |
+|                           |                                                            |-g (To specify a primary group w/ name or GID of the group) |
+|      passwd               |  Change user password                                      |(user changes and admin changes giving user name as arguem.)|
+|                                 
