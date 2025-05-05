@@ -43,3 +43,6 @@
 |      chmod            |     Changes permissions on files and directories      |                                                      |
 |      umask            | Feature that is used to determine default permissions |                                                      |
 |                       | that are set when a file or directory is created      |                                                      |
+|      stat             | Displays more detailed information about a file,      |                                                      |
+|                       | including providing the group ownership both by       |                                                      |
+|                       | group name and GID number                             |                                                      |
