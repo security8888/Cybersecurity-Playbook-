@@ -1,5 +1,5 @@
-I chose to list websites that are excellent linux reference sites.  I did this because the only other resource to list is the netcad and
-there will be no access to that after a year.  I choose a list that was choosen and written by Christian Cawley.  I will be using her explanations of the websites in
+I chose to list websites that are excellent linux reference sites.  I did this because the only other resource to list is netcad and
+there will be no access to that after 1 year.  I choose a list that was choosen and written by Christian Cawley.  I will be using her explanations of the websites in
 this md file.
 
 https://www.omgubuntu.co.uk/
